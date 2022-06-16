@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://dumidy.github.io/sitemap.xml

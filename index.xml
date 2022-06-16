@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Dumidy&#39;s Backyard</title>
+    <link>https://dumidy.github.io/</link>
+    <description>Recent content on Dumidy&#39;s Backyard</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 16 Jun 2022 10:28:51 +0800</lastBuildDate><atom:link href="https://dumidy.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello World！</title>
+      <link>https://dumidy.github.io/posts/my-first-post/</link>
+      <pubDate>Thu, 16 Jun 2022 10:28:51 +0800</pubDate>
+      
+      <guid>https://dumidy.github.io/posts/my-first-post/</guid>
+      <description>上一次在网络上认真的写点东西的时间已经不太记得了，虽然清楚的知道输出和分享的重要性，却迟迟没有下笔。一直在路上，风景却未曾改变。
+最近阅读了周岭的《认知觉醒》，结合自己最近减肥 7KG 感同身受的经验，让我产生了我又可以了的想法。Anyway，请允许我用程序员的习惯开始这篇 Blog：
+Hello World！ 你好，世界！</description>
+    </item>
+    
+  </channel>
+</rss>
